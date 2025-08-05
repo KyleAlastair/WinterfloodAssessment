@@ -1,0 +1,15 @@
+C:\Users\kpung\source\repos\WinterfloodAssessment\BookingsConsoleApp\BookingsConsoleApp\bin\Debug\net8.0\BookingsConsoleApp.exe
+C:\Users\kpung\source\repos\WinterfloodAssessment\BookingsConsoleApp\BookingsConsoleApp\bin\Debug\net8.0\BookingsConsoleApp.deps.json
+C:\Users\kpung\source\repos\WinterfloodAssessment\BookingsConsoleApp\BookingsConsoleApp\bin\Debug\net8.0\BookingsConsoleApp.runtimeconfig.json
+C:\Users\kpung\source\repos\WinterfloodAssessment\BookingsConsoleApp\BookingsConsoleApp\bin\Debug\net8.0\BookingsConsoleApp.dll
+C:\Users\kpung\source\repos\WinterfloodAssessment\BookingsConsoleApp\BookingsConsoleApp\bin\Debug\net8.0\BookingsConsoleApp.pdb
+C:\Users\kpung\source\repos\WinterfloodAssessment\BookingsConsoleApp\BookingsConsoleApp\obj\Debug\net8.0\BookingsConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kpung\source\repos\WinterfloodAssessment\BookingsConsoleApp\BookingsConsoleApp\obj\Debug\net8.0\BookingsConsoleApp.AssemblyInfoInputs.cache
+C:\Users\kpung\source\repos\WinterfloodAssessment\BookingsConsoleApp\BookingsConsoleApp\obj\Debug\net8.0\BookingsConsoleApp.AssemblyInfo.cs
+C:\Users\kpung\source\repos\WinterfloodAssessment\BookingsConsoleApp\BookingsConsoleApp\obj\Debug\net8.0\BookingsConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\kpung\source\repos\WinterfloodAssessment\BookingsConsoleApp\BookingsConsoleApp\obj\Debug\net8.0\BookingsConsoleApp.sourcelink.json
+C:\Users\kpung\source\repos\WinterfloodAssessment\BookingsConsoleApp\BookingsConsoleApp\obj\Debug\net8.0\BookingsConsoleApp.dll
+C:\Users\kpung\source\repos\WinterfloodAssessment\BookingsConsoleApp\BookingsConsoleApp\obj\Debug\net8.0\refint\BookingsConsoleApp.dll
+C:\Users\kpung\source\repos\WinterfloodAssessment\BookingsConsoleApp\BookingsConsoleApp\obj\Debug\net8.0\BookingsConsoleApp.pdb
+C:\Users\kpung\source\repos\WinterfloodAssessment\BookingsConsoleApp\BookingsConsoleApp\obj\Debug\net8.0\BookingsConsoleApp.genruntimeconfig.cache
+C:\Users\kpung\source\repos\WinterfloodAssessment\BookingsConsoleApp\BookingsConsoleApp\obj\Debug\net8.0\ref\BookingsConsoleApp.dll
